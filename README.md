@@ -1,94 +1,143 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ines-cho.Ines-cho" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0099cc,100:003d4d&height=120&section=header&text=&fontSize=0" width="100%"/>
+</div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+CHOHRA+INES!;" />
-</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ines-cho.Ines-cho&color=00d4ff&style=flat-square&logo=github" />
 
-<h3 align="center">A passionate bioinformatics explorer, decoding life with AI 🧬🤖</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&center=true&vCenter=true&width=650&height=100&duration=3000&lines=🧬+CHOHRA+INES+🤖;Computational+Biologist;AI+%2B+Genomics+Researcher;Neural+Networks+for+Life+Sciences;Bioinformatics+%26+Deep+Learning;" />
+</div>
+
+<div align="center">
+  <h3 style="color: #00d4ff; text-shadow: 0 0 10px #00d4ff;">
+    🔬 MSc Bioinformatics • USTHB University • Computational Biology Researcher 🧠
+  </h3>
+</div>
 
 <br/>
 
+<!-- Bio Section with Glowing Effects -->
 <div align="center">
- 
- 🎓 I’m currently a **Master 1 Bioinformatics student at USTHB University **  
- 
- 🔬 I’m currently learning **Deep Learning, Data Science, and Cloud Computing**  
-
- 💬 Ask me about **ECG Signal Processing, CNN Models, React, or anything [here](https://github.com/Ines-cho/Ines-cho/issues)**  
-
- ⚡ Fun fact **Even when an ECG signal looks chaotic, there’s always a hidden rhythm—just like in life 💙**  
-
+  
+  ⚡ **Current Research:** `CNNs for ECG Analysis` • `Genomic Variant Calling` • `Protein Structure Prediction`
+  
+  🧬 **Tech Focus:** `TensorFlow/PyTorch` • `Biopython` • `GATK Pipeline` • `Cloud Genomics`
+  
+  💡 **Mission:** *"Decoding life's complexity through computational intelligence and neural architectures"*
+  
 </div>
 
- 
+<br/>
+
+<!-- Social Links with Glowing Effect -->
 <div align="center"> 
   <a href="mailto:choines20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=000000" />
   </a>
   <a href="https://linkedin.com/in/nousa-cho" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=000000" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://github.com/Ines-cho" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=000000" />
   </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,mysql,postgresql" />
-    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,javascript,typescript,nodejs,express" /><br>
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,git,github,vscode,figma,nextjs" /><br>
-    <img src="https://skillicons.dev/icons?i=linux" />
 </div>
 
 <br/>
-<hr/>
 
-
+<!-- Tech Stack with Animation -->
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=2500&pause=500&color=00d4ff&center=true&vCenter=true&width=550&lines=⚡+Computational+Biology+Stack+⚡;Machine+Learning+for+Genomics;Bioinformatics+%26+AI+Pipeline" />
 </div>
 
-<hr/>
+<br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<!-- Technologies améliorées avec séparation logique -->
+<div align="center">
+  <!-- Bio-Data Science -->
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn&theme=dark" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <sub style="color: #666; font-size: 12px;">Bio-Data Science & Machine Learning</sub>
+  
+  <br/><br/>
+  
+  <!-- Databases & Cloud -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,gcp&theme=dark" />
+  <br/>
+  <sub style="color: #666; font-size: 12px;">Genomic Databases & Cloud Computing</sub>
+  
+  <br/><br/>
+  
+  <!-- Web & Development -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind,nodejs&theme=dark" />
+  <br/>
+  <sub style="color: #666; font-size: 12px;">Full-Stack Development & Visualization</sub>
+  
+  <br/><br/>
+  
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,jupyter&theme=dark" />
+  <br/>
+  <sub style="color: #666; font-size: 12px;">Development Environment & Workflow</sub>
 </div>
 
-<br/><br/>
+<br/>
 
-<hr/>
+<!-- Badges spécialisés bio-informatique -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Biopython-Expert-00d4ff?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GATK-Pipeline-00d4ff?style=flat-square&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Pandas-Genomics-00d4ff?style=flat-square&logo=pandas&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Jupyter-Research-00d4ff?style=flat-square&logo=jupyter&logoColor=white&labelColor=0d1117" />
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <h3 style="color: #00d4ff; text-shadow: 0 0 10px #00d4ff;">🧬 Genomic Contribution Pattern 🐍</h3>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Ines-cho/Ines-cho/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&duration=2000&pause=500&color=00d4ff&center=true&vCenter=true&width=450&lines=⚡+Research+Analytics+⚡" />
+</div>
 
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ines-cho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ines-cho&theme=tokyonight&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&border=00d4ff" />
 </div>
 
 <br/>
-<!--
-**Ines-cho/Ines-cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ines-cho&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=00d4ff" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- Bio Facts Animation améliorée -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=4500&pause=1000&color=00d4ff&center=true&vCenter=true&width=750&lines=🧬+Human+genome%3A+20%2C000+genes+across+23+chromosome+pairs;🤖+AlphaFold+predicts+200M%2B+protein+structures+using+AI;💊+ML+reduces+drug+discovery+from+15+years+to+3-5+years;⚡+CRISPR+%2B+AI%3A+precision+gene+editing+revolution;🔬+Single-cell+RNA-seq+reveals+cellular+heterogeneity;🧠+Deep+learning+decodes+brain+signals+into+text" />
+</div>
+
+<br/>
+
+<!-- Subtle separator -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=2000&pause=500&color=333333&center=true&vCenter=true&width=600&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=18&duration=3000&pause=1500&color=666666&center=true&vCenter=true&width=600&lines=Computational+Biology+•+Neural+Networks+•+Genomic+AI" />
+</div>
+
+<br/>
+
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003d4d,50:0099cc,100:00d4ff&height=120&section=footer" width="100%"/>
+</div>
