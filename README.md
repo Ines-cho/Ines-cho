@@ -5,31 +5,29 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ines-cho.Ines-cho&color=00d4ff&style=flat-square&logo=github" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&center=true&vCenter=true&width=650&height=100&duration=3000&lines=🧬+CHOHRA+INES+🤖;Computational+Biologist;AI+%2B+Genomics+Researcher;Neural+Networks+for+Life+Sciences;Deep+Learning+%26+Bioinformatics;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&center=true&vCenter=true&width=650&height=100&duration=3000&lines=🧬+CHOHRA+INES+🤖;Dev+Computational+Biology;Spécialiste+IA+%2B+Genomics;Neural+Networks+pour+Life+Sciences;Deep+Learning+%26+Bio-informatique;" />
 </div>
 
-<div align="center">
-  <h3 style="color: #00d4ff; text-shadow: 0 0 10px #00d4ff;">
-    🔬 MSc Computational Biology • USTHB University • AI Research Scientist 🧠
-  </h3>
-</div>
+<h3 align="center">A passionate bioinformatics explorer, decoding life with AI 🧬🤖</h3>
 
 <br/>
 
-<!-- Bio Section with Glowing Effects -->
 <div align="center">
-  
-  ⚡ **Current Research:** `CNNs for ECG Signal Analysis` • `Genomic Variant Calling` • `Protein Folding Prediction`
-  
-  🧬 **Tech Expertise:** `PyTorch/TensorFlow` • `Biopython` • `GATK Workflows` • `AWS Genomics`
-  
-  💡 **Mission:** *"Bridging molecular biology and artificial intelligence through computational innovation"*
-  
+ 
+ 🎓 I’m currently a <strong>Master 1 Bioinformatics student at USTHB University</strong>  
+ 
+ 🔬 I’m currently learning <strong>Deep Learning, Data Science, and Cloud Computing</strong>  
+
+ 💬 Ask me about <strong>ECG Signal Processing, CNN Models, React, or anything <a href="https://github.com/Ines-cho/Ines-cho/issues">here</a></strong>  
+
+ ⚡ Fun fact <strong>Even when an ECG signal looks chaotic, there’s always a hidden rhythm—just like in life 💙</strong>  
+
 </div>
+
 
 <br/>
 
-<!-- Social Links with Glowing Effect -->
+<!-- Liens Sociaux avec Effet Lumineux -->
 <div align="center"> 
   <a href="mailto:choines20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=000000" />
@@ -44,60 +42,60 @@
 
 <br/>
 
-<!-- Tech Stack with Animation -->
+<!-- Stack Technique avec Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=2500&pause=500&color=00d4ff&center=true&vCenter=true&width=550&lines=⚡+Computational+Biology+Arsenal+⚡;Machine+Learning+for+Genomics;Bioinformatics+Pipeline+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=2500&pause=500&color=00d4ff&center=true&vCenter=true&width=550&lines=⚡+Arsenal+Computational+Biology+⚡;Machine+Learning+pour+Genomics;Pipelines+Bio-informatique;Framework+IA+%2B+Life+Sciences" />
 </div>
 
 <br/>
 
-<!-- 🎯 CATÉGORISATION TECH AVEC SOUS-TITRES DISCRETS -->
+<!-- 🎯 STACK TECHNIQUE CATÉGORISÉ AVEC VOCABULAIRE DEV ALGÉRIEN -->
 <div align="center">
-  <!-- Machine Learning & Bioinformatics -->
+  <!-- Machine Learning & Bio-informatique -->
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,sklearn&theme=dark" />
   <br/>
-  <sub style="color: #555; font-size: 11px; font-family: 'Fira Code';">🧬 Machine Learning & Bioinformatics</sub>
+  <sub style="color: #555; font-size: 11px; font-family: 'Fira Code';">🧬 Machine Learning & Framework Bio-informatique</sub>
   
   <br/><br/>
   
-  <!-- Genomic Databases & Cloud -->
+  <!-- Bases de Données Génomiques & Cloud -->
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,aws,gcp&theme=dark" />
   <br/>
-  <sub style="color: #555; font-size: 11px; font-family: 'Fira Code';">☁️ Genomic Databases & Cloud Computing</sub>
+  <sub style="color: #555; font-size: 11px; font-family: 'Fira Code';">☁️ Bases de Données Génomiques & Cloud Computing</sub>
   
   <br/><br/>
   
-  <!-- Full-Stack Development -->
+  <!-- Développement Full-Stack -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwind,nodejs&theme=dark" />
   <br/>
-  <sub style="color: #555; font-size: 11px; font-family: 'Fira Code';">💻 Full-Stack Development & Data Visualization</sub>
+  <sub style="color: #555; font-size: 11px; font-family: 'Fira Code';">💻 Dev Full-Stack & Data Visualization</sub>
   
   <br/><br/>
   
-  <!-- Development Workflow -->
+  <!-- Environnement de Développement -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,jupyter&theme=dark" />
   <br/>
-  <sub style="color: #555; font-size: 11px; font-family: 'Fira Code';">🛠️ Development Environment & Research Tools</sub>
+  <sub style="color: #555; font-size: 11px; font-family: 'Fira Code';">🛠️ Environnement Dev & Outils Research</sub>
 </div>
 
 <br/>
 
-<!-- 🎯 BADGES SPÉCIALISÉS BIO-INFORMATIQUE -->
+<!-- 🎯 BADGES SPÉCIALISÉS AVEC TERMINOLOGIE DEV -->
 <div align="center">
   <img src="https://img.shields.io/badge/Biopython-Expert-00d4ff?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/GATK-Genomics-00d4ff?style=flat-square&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Pandas-Bioinformatics-00d4ff?style=flat-square&logo=pandas&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/GATK-Pipeline_Dev-00d4ff?style=flat-square&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Pandas-Data_Science-00d4ff?style=flat-square&logo=pandas&logoColor=white&labelColor=0d1117" />
   <br/>
-  <img src="https://img.shields.io/badge/Jupyter-Research-00d4ff?style=flat-square&logo=jupyter&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/PyTorch-Neural_Networks-00d4ff?style=flat-square&logo=pytorch&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/AWS-Genomics-00d4ff?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Jupyter-Research_Dev-00d4ff?style=flat-square&logo=jupyter&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PyTorch-Deep_Learning-00d4ff?style=flat-square&logo=pytorch&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/AWS-Genomics_Stack-00d4ff?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0d1117" />
 </div>
 
 <br/>
 
 <!-- Snake Animation -->
 <div align="center">
-  <h3 style="color: #00d4ff; text-shadow: 0 0 10px #00d4ff;">🧬 Genomic Contribution Sequence 🐍</h3>
+  <h3 style="color: #00d4ff; text-shadow: 0 0 10px #00d4ff;">🧬 Séquence de Contributions Génomiques 🐍</h3>
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Ines-cho/Ines-cho/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
@@ -105,7 +103,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&duration=2000&pause=500&color=00d4ff&center=true&vCenter=true&width=450&lines=⚡+Research+Analytics+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&duration=2000&pause=500&color=00d4ff&center=true&vCenter=true&width=450&lines=⚡+Analytics+de+Recherche+⚡" />
 </div>
 
 <br/>
@@ -124,20 +122,20 @@
 
 <br/>
 
-<!-- 🎯 BIO FACTS PLUS TECHNIQUES ET ACTUELS -->
+<!-- 🎯 FACTS TECHNIQUES ACTUALISÉS -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=4500&pause=1000&color=00d4ff&center=true&vCenter=true&width=800&lines=🧬+Human+genome%3A+3.2+billion+bp%2C+20%2C500+protein-coding+genes;🤖+AlphaFold3+predicts+200M%2B+protein+structures+with+90%25+accuracy;💊+AI+drug+discovery%3A+15+years+→+3-5+years+development+time;⚡+CRISPR-Cas9+%2B+ML%3A+99.9%25+precision+gene+editing;🔬+scRNA-seq+reveals+37.2+trillion+cellular+transcriptomes;🧠+Neuralink+decodes+neural+signals+at+1024+electrode+resolution;💾+Next-gen+sequencing%3A+30x+human+genome+in+24+hours;🌟+Quantum+computing+%2B+molecular+simulation%3A+drug+design+revolution" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=4500&pause=1000&color=00d4ff&center=true&vCenter=true&width=800&lines=🧬+Génome+humain%3A+3.2+milliards+bp%2C+20%2C500+gènes+protein-coding;🤖+AlphaFold3+prédit+200M%2B+structures+protéiques+à+90%25+de+précision;💊+IA+drug+discovery%3A+15+ans+→+3-5+ans+temps+de+développement;⚡+CRISPR-Cas9+%2B+ML%3A+99.9%25+précision+gene+editing;🔬+scRNA-seq+révèle+37.2+trillions+transcriptomes+cellulaires;🧠+Neuralink+décode+signaux+neuraux+à+1024+électrodes;💾+Next-gen+sequencing%3A+30x+génome+humain+en+24h;🌟+Quantum+computing+%2B+simulation+moléculaire%3A+révolution+drug+design" />
 </div>
 
 <br/>
 
-<!-- 🎯 SÉPARATEUR ÉLÉGANT À LA FIN -->
+<!-- 🎯 SÉPARATEUR FINAL ÉLÉGANT -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=12&duration=1500&pause=100&color=333333&center=true&vCenter=true&width=700&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=18&duration=3000&pause=1500&color=666666&center=true&vCenter=true&width=650&lines=Computational+Biology+•+Neural+Architecture+•+Genomic+Intelligence" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=2500&pause=1000&color=444444&center=true&vCenter=true&width=550&lines=Where+Molecular+Biology+Meets+Artificial+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&duration=2500&pause=1000&color=444444&center=true&vCenter=true&width=550&lines=Là+où+la+Biologie+Moléculaire+rencontre+l'Intelligence+Artificielle" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=12&duration=1500&pause=100&color=333333&center=true&vCenter=true&width=700&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
 </div>
