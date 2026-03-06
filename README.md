@@ -169,21 +169,13 @@
 
 <br/>
 
-<!-- ══════════════════  FACTS SECTION  ════════════════════════════ -->
+<!-- ══════════════════  FACTS — TYPEWRITER ANIMÉ  ════════════════ -->
 <div align="center">
   <h3>🌌 Computational Biology — Key Facts</h3>
 </div>
 
 <div align="center">
-
-| 🧬 | Génome humain : **3.2 milliards bp** · 20,500 gènes protein-coding |
-|:---:|:---|
-| 🤖 | AlphaFold3 prédit **200M+ structures protéiques** à 90% de précision |
-| 💊 | IA drug discovery : **15 ans → 3-5 ans** de développement |
-| ⚡ | CRISPR-Cas9 + ML : **99.9%** précision gene editing |
-| 🔬 | scRNA-seq révèle **37.2 trillions** de transcriptomes cellulaires |
-| 💾 | Next-gen sequencing : **30x génome humain** en 24h |
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=3500&pause=1500&color=00d4ff&center=true&vCenter=true&width=860&height=60&lines=🧬+Génome+humain+%3A+3.2+milliards+bp+·+20%2C500+gènes+protein-coding;🤖+AlphaFold3+prédit+200M%2B+structures+protéiques+à+90%25+de+précision;💊+IA+drug+discovery+%3A+15+ans+→+3-5+ans+de+développement;⚡+CRISPR-Cas9+%2B+ML+%3A+99.9%25+précision+gene+editing;🔬+scRNA-seq+révèle+37.2+trillions+de+transcriptomes+cellulaires;💾+Next-gen+sequencing+%3A+30x+génome+humain+en+24h;🌟+Quantum+computing+%2B+simulation+moléculaire+%3A+révolution+drug+design;🧠+Neuralink+décode+signaux+neuraux+à+1024+électrodes" />
 </div>
 
 <br/>
