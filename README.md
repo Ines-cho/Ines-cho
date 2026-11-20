@@ -27,7 +27,7 @@
 <!-- ═══════════════════════  ABOUT ME  ════════════════════════════ -->
 <div align="center">
 
-| 🎓 | Master 1 Bioinformatique **@USTHB University** |
+| 🎓 | Master 2 Bioinformatique **@USTHB University** |
 |:---:|:---|
 | 🔬 | Apprentissage : **Deep Learning · Data Science · Cloud Computing** |
 | 🫀 | Projet phare : **Classification CNN de signaux ECG** |
